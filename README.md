@@ -1,6 +1,6 @@
 <div align="center">
 
-# ðŸ½ï¸ Restaurant Website
+# Restaurant Website
 
 **A premium restaurant website with menu showcase, gallery, reservation system & elegant design. Built with HTML, CSS & JavaScript.**
 
@@ -13,13 +13,13 @@
 
 ---
 
-## ðŸ“Œ Topics
+## Topics
 
-`html` `css` `javascript` `restaurant-website` `food-website` `menu-design` `reservation-system` `responsive-design` `front-end` `web-development` `vanilla-js` `css-animations` `landing-page` `hospitality`
+`html` `css` `javascript` `restaurant-website` `food-website` `menu-design` `reservation-system` `responsive-design` `front-end` `vanilla-js`
 
 ---
 
-## ðŸ“– About
+## About
 
 A **premium restaurant website** designed for restaurants, cafes, and food businesses. Features an elegant food-inspired design with menu showcase, photo gallery, reservation form, and contact information.
 
@@ -27,34 +27,34 @@ Built with **vanilla HTML, CSS, and JavaScript** â€” warm color palette, sm
 
 ---
 
-## âœ¨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
-| ðŸ• Menu Section | Food categories with prices |
-| ðŸ“¸ Gallery | Restaurant ambiance showcase |
-| â­ Specials | Featured dishes highlight |
-| ðŸ“ž Reservation | Booking form |
-| ðŸ—ºï¸ Location | Address & contact info |
-| ðŸ“± Responsive | Mobile-first design |
-| ðŸŽ¨ Elegant Design | Warm food-inspired theme |
-| âš¡ Smooth Scroll | Seamless section navigation |
-| ðŸ’« Animations | Hover & scroll effects |
-| ðŸŽ¯ CTA Buttons | Reservation prompts |
+| Menu Section | Food categories with prices |
+| Gallery | Restaurant ambiance showcase |
+| Specials | Featured dishes highlight |
+| Reservation | Booking form |
+| Location | Address & contact info |
+| Responsive | Mobile-first design |
+| Elegant Design | Warm food-inspired theme |
+| Smooth Scroll | Seamless section navigation |
+| Animations | Hover & scroll effects |
+| CTA Buttons | Reservation prompts |
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 ```
-HTML5 âžœ Semantic Structure, Sections
-CSS3  âžœ Warm Theme, Flexbox/Grid, Animations
-JS    âžœ Navigation, Scroll Effects, Form Handling
+HTML5  -->  Semantic Structure, Sections
+CSS3   -->  Warm Theme, Flexbox/Grid, Animations
+JS     -->  Navigation, Scroll Effects, Form Handling
 ```
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ```bash
 git clone https://github.com/codewithshariqofficial/Restaurant-Website.git
@@ -64,7 +64,7 @@ start index.html
 
 ---
 
-## ðŸ“‚ Project Structure
+## Project Structure
 
 ```
 Restaurant-Website/
@@ -76,7 +76,7 @@ Restaurant-Website/
 
 ---
 
-## ðŸ‘¨â€ðŸ’» Author
+## Author
 
 **Code With Shariq Official**
 
@@ -84,5 +84,3 @@ Restaurant-Website/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithshariq1/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/codewithshariq1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammad-shariq-shahid.vercel.app/)
-
----
