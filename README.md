@@ -2,7 +2,7 @@
 
 # Restaurant Website
 
-**A premium restaurant website with menu showcase, gallery, reservation system & elegant design. Built with HTML, CSS & JavaScript.**
+**A premium restaurant website with menu showcase, gallery, reservation system and elegant design. Built with HTML, CSS and JavaScript.**
 
 [![Live Demo](https://img.shields.io/badge/LIVE-DEMO-brightgreen?style=for-the-badge&logo=vercel&logoColor=white)](https://restaurant-website.vercel.app)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -23,7 +23,7 @@
 
 A **premium restaurant website** designed for restaurants, cafes, and food businesses. Features an elegant food-inspired design with menu showcase, photo gallery, reservation form, and contact information.
 
-Built with **vanilla HTML, CSS, and JavaScript** â€" warm color palette, smooth animations, and mouth-watering food presentation.
+Built with **vanilla HTML, CSS, and JavaScript** -- warm color palette, smooth animations, and beautiful food presentation.
 
 ---
 
@@ -35,11 +35,11 @@ Built with **vanilla HTML, CSS, and JavaScript** â€" warm color palette, smoo
 | Gallery | Restaurant ambiance showcase |
 | Specials | Featured dishes highlight |
 | Reservation | Booking form |
-| Location | Address & contact info |
+| Location | Address and contact info |
 | Responsive | Mobile-first design |
 | Elegant Design | Warm food-inspired theme |
 | Smooth Scroll | Seamless section navigation |
-| Animations | Hover & scroll effects |
+| Animations | Hover and scroll effects |
 | CTA Buttons | Reservation prompts |
 
 ---
@@ -68,10 +68,10 @@ start index.html
 
 ```
 Restaurant-Website/
-â"œâ"€â"€ index.html      # Main page
-â"œâ"€â"€ style.css       # Stylesheet
-â"œâ"€â"€ script.js       # JavaScript logic
-â""â"€â"€ README.md
+  index.html      # Main page
+  style.css       # Stylesheet
+  script.js       # JavaScript logic
+  README.md
 ```
 
 ---
