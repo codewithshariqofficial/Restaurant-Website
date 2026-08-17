@@ -23,7 +23,7 @@
 
 A **premium restaurant website** designed for restaurants, cafes, and food businesses. Features an elegant food-inspired design with menu showcase, photo gallery, reservation form, and contact information.
 
-Built with **vanilla HTML, CSS, and JavaScript** â€” warm color palette, smooth animations, and mouth-watering food presentation.
+Built with **vanilla HTML, CSS, and JavaScript** â€" warm color palette, smooth animations, and mouth-watering food presentation.
 
 ---
 
@@ -68,10 +68,10 @@ start index.html
 
 ```
 Restaurant-Website/
-â”œâ”€â”€ index.html      # Main page
-â”œâ”€â”€ style.css       # Stylesheet
-â”œâ”€â”€ script.js       # JavaScript logic
-â””â”€â”€ README.md
+â"œâ"€â"€ index.html      # Main page
+â"œâ"€â"€ style.css       # Stylesheet
+â"œâ"€â"€ script.js       # JavaScript logic
+â""â"€â"€ README.md
 ```
 
 ---
